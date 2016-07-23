@@ -4,7 +4,7 @@
 
 Inspirations/Foundations: [Pony Island](http://store.steampowered.com/app/405640/), [Project Underline](http://devpost.com/software/project-underline), and [Escape](http://devpost.com/software/escape-6xa8zn)
 
-Description: A paranormal puzzle game experienced through the medium of a (demon-controlled) notebook app, *Notes* requires the user to free former users who lost their souls through in-app purchases and ultimately return the app to a demon-free state. It is not a note-taking app.
+Description: A paranormal puzzle game experienced through the medium of a (demon-controlled) notebook app, *Notes* requires the player to free former users who lost their souls through in-app purchases and to ultimately return the app to a demon-free state. It is not a note-taking app.
 
 Created Using: Android Studio
 
