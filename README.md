@@ -1,6 +1,6 @@
 # Notes
 
-**Built at Spectra Hackathon 2016**
+**Winner of Most Creative Prize at Spectra Hackathon 2016**
 
 Inspirations/Foundations: [Pony Island](http://store.steampowered.com/app/405640/), [Project Underline](http://devpost.com/software/project-underline), and [Escape](http://devpost.com/software/escape-6xa8zn)
 
@@ -10,6 +10,6 @@ Created Using: Android Studio
 
 Version & Date: Version 1.0, 7/23/16
 
-Devpost Link:
+Devpost Link: http://devpost.com/software/notes-a9du4v
 
 Author: Caroline Ho
